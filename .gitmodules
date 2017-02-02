@@ -1,0 +1,3 @@
+[submodule "led-matrix-ticker"]
+	path = led-matrix-ticker
+	url = https://github.com/saylorsd/led-matrix-ticker
